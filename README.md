@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Maurya</h1>
-<h3 align="center">MERN Stack developer | ML | Blockchain | Cyber security</h3>
+<h3 align="center">MERN Stack | Clouds & DevOps | Generative AI | Machine Learning | Blockchain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joker-ksh&label=Profile%20views&color=0e75b6&style=flat" alt="joker-ksh" /> </p>
 
