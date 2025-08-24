@@ -11,7 +11,8 @@
 
 - 📄 Know about my experiences [amandev29104.netlify.app](https://amandev29104.netlify.app/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me : </h3>
+<span>https://www.linkedin.com/in/aman-maurya-8941b926b/</span>
 <p align="left">
 </p>
 
