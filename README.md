@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **amanmaurya3721@gmail.com**
 
-- 📄 Know about my experiences [Porfolio](amandev29104.netlify.app)
+- 📄 Know about my experiences [amandev29104.netlify.app](amandev29104.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
